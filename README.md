@@ -8,3 +8,7 @@ langkah-langkahnya yaitu :
 *membuat database bernama databaseRiska
 *mengupload di github
 caranya ada di gambar : 
+ 1. https://github.com/riskalest/pbd-express-mongoose-mvc/blob/master/mengaktifkanmongodb.jpg
+ 2. https://github.com/riskalest/pbd-express-mongoose-mvc/blob/master/aktifmongodb2.jpg
+ 3. https://github.com/riskalest/pbd-express-mongoose-mvc/blob/master/buatdatabase.jpg
+ 
