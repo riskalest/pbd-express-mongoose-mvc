@@ -9,7 +9,7 @@ Salah satu perbedaan ketika membuat data dalam mongodb dengan
 ### mengupload di github
 
 caranya ada di gambar : 
- 1. https://github.com/riskalest/pbd-express-mongoose-mvc/blob/master/mengaktifkanmongodb.jpg
- 2. https://github.com/riskalest/pbd-express-mongoose-mvc/blob/master/aktifmongodb2.jpg
- 3. https://github.com/riskalest/pbd-express-mongoose-mvc/blob/master/buatdatabase.jpg
- 
+![logo](https://github.com/riskalest/pbd-express-mongoose-mvc/blob/master/mengaktifkanmongodb.jpg)
+![logo](https://github.com/riskalest/pbd-express-mongoose-mvc/blob/master/aktifmongodb2.jpg)
+![logo](https://github.com/riskalest/pbd-express-mongoose-mvc/blob/master/buatdatabase.jpg)
+
